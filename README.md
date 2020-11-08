@@ -10,7 +10,7 @@ sudo apt install tesseract-ocr
 sudo apt install libtesseract-dev
 
 Install OpenCV –
-1.	Download the repo: https://github.com/jayrambhia/Install-OpenCV
+1.	Download or clone the repo: https://github.com/jayrambhia/Install-OpenCV
 2.	Go to Ubuntu/dependencies.sh and change lines
     install_dependency libgstreamer0.10-dev to install_dependency libgstreamer1.0-dev
     and
